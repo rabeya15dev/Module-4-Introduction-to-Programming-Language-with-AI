@@ -1,0 +1,69 @@
+# Module 04 — Introduction to Programming Language with AI
+
+This repository contains my **Module 04 assignment** on **Introduction to Programming Language with AI**, focusing on **JavaScript and Node.js**.
+
+The assignment covers JavaScript coding practice and an introduction to Node.js, with a focus on its use in **QA Automation**.
+
+## 📚 PDF Topic Coverage
+
+### Q1 — JavaScript Coding Practice
+
+The assignment includes JavaScript programs for:
+
+- Checking whether a number is **even or odd**
+- Finding the **largest of three numbers**
+- Reversing a **string**
+- Counting **vowels in a string**
+- Removing **duplicate values from an array**
+
+Each problem includes:
+
+- Problem Statement
+- JavaScript Source Code
+- Output Screenshot
+- Explanation
+
+### Q2 — Introduction to Node.js
+
+The assignment explains:
+
+- **What is Node.js?**
+- **How Node.js works**
+- **Advantages of Node.js for QA Automation**
+- **Difference between Browser JavaScript and Node.js**
+
+## 🤖 AI Usage
+
+AI tools were used to support the learning and development process by:
+
+- Understanding JavaScript concepts
+- Generating and reviewing coding approaches
+- Explaining Node.js concepts
+- Identifying and correcting coding errors
+- Improving understanding of JavaScript for QA Automation
+
+The generated solutions and explanations were reviewed and understood before inclusion in the assignment.
+
+## 🛠️ Tools Used
+
+- JavaScript
+- Node.js
+- Visual Studio Code
+- ChatGPT / AI Tools
+- Git & GitHub
+
+## 📁 Repository Structure
+
+```text
+Module-4-Introduction-to-Programming-Language-with-AI/
+│
+├── README.md
+│
+└── Module-04-JavaScript-NodeJS-Assignment.pdf
+```
+
+## 👩‍💻 Author
+
+**Rabeya Bosri**  
+BSc in Computer Science & Engineering  
+GitHub: [rabeya15dev](https://github.com/rabeya15dev)
